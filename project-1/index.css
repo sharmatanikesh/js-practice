@@ -258,15 +258,15 @@ video {
 }
 
 #card1 {
-  background-image: url(/project-1/assets/home-lessons-1024x682.jpg);
+  background-image: url(./assets/home-lessons-1024x682.jpg);
 }
 
 #card2 {
-  background-image: url(/project-1/assets/hero-4-1024x1024.jpg);
+  background-image: url(./assets/hero-4-1024x1024.jpg);
 }
 
 #card3 {
-  background-image: url(/project-1/assets/home-lessons-1024x682.jpg);
+  background-image: url(./assets/home-lessons-1024x682.jpg);
 }
 
 .overlay{
